@@ -85,7 +85,10 @@ return 0;
 
 ## OUTPUT
 
-![Screenshot from 2024-04-13 22-52-54](https://github.com/gururaghav2925/Linux-IPC-Message-Queues/assets/151489500/37390821-eb7b-405a-a557-649acaf7e77e)
+
+![Screenshot from 2024-04-13 23-02-17](https://github.com/gururaghav2925/Linux-IPC-Message-Queues/assets/151489500/04e9499e-5318-4bc9-8644-e006e9d915f5)
+
+
 
 
 # RESULT:
